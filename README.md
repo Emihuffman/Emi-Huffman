@@ -1,2 +1,2 @@
-# Emi-Huffman
+# EmiHuffmanVance
 IS 201 project
